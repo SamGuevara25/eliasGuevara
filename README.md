@@ -100,15 +100,16 @@ UI/UX consistency and design aesthetics.
 
 # 📂 Project Structure
 
-/project-folder
-│
-├── index.html          # Main HTML file (entire site in one page)
-├── image.png           # Profile / about section photo
-├── logo.png            # Project image (achievement fair)
-├── VASED.png           # Power Apps project image
-├── image2222.png       # Expo-tech project image
-├── samuelGuevara_CV.pdf # Downloadable resume
-└── README.md           # Documentation (this file)
+| File / Folder            | Description                                                           |
+| ------------------------ | --------------------------------------------------------------------- |
+| **index.html**           | Main HTML file containing the entire website (single-page structure). |
+| **image.png**            | Profile or "About Me" section photo.                                  |
+| **logo.png**             | Project image used for the "Achievement Fair" project card.           |
+| **VASED.png**            | Image for the "VASED" Power Apps project.                             |
+| **image2222.png**        | Image for the "Expo-Tech" project.                                    |
+| **samuelGuevara_CV.pdf** | Downloadable PDF version of the resume/CV.                            |
+| **README.md**            | Project documentation file (this file).                               |
+
 
 # 🌍 Live Demo
 
