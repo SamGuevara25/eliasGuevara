@@ -67,13 +67,13 @@ Stylish footer with interactive social media buttons and copyright.
 
 # ⚙️ How It Works
 
-**Navigation & Layout**
+**Navigation & Layout:**
 The site uses anchor links and smooth scrolling for seamless navigation between sections.
 
-**Animations on Scroll**
+**Animations on Scroll:**
 JavaScript observes when each section enters the viewport and adds animation classes for fade-in effects.
 
-**Contact Form**
+**Contact Form:**
 
 Built with custom validation and integrated with EmailJS.
 
@@ -81,7 +81,7 @@ Sends the visitor’s message directly to my email inbox using a pre-configured 
 
 Displays custom success/error notifications.
 
-**Responsive Behavior**
+**Responsive Behavior:**
 The layout automatically adapts to any screen size using CSS Grid, Flexbox, and media queries.
 
 # 🧠 What I Learned
