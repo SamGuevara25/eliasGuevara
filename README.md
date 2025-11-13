@@ -53,3 +53,71 @@ Stylish footer with interactive social media buttons and copyright.
 💫 Particle animation background.
 
 ⚡ Smooth animations on scroll using the Intersection Observer API.
+
+
+| Category               | Tools / Libraries                          |
+| ---------------------- | ------------------------------------------ |
+| **Frontend**           | HTML5, CSS3, JavaScript (ES6)              |
+| **Animations**         | CSS transitions, Intersection Observer API |
+| **Icons**              | Font Awesome 6                             |
+| **Email Integration**  | EmailJS (client-side API)                  |
+| **Design**             | Flexbox, CSS Grid, custom gradients        |
+| **Hosting (optional)** | GitHub Pages / Netlify                     |
+
+# ⚙️ How It Works
+
+**Navigation & Layout**
+The site uses anchor links and smooth scrolling for seamless navigation between sections.
+
+**Animations on Scroll**
+JavaScript observes when each section enters the viewport and adds animation classes for fade-in effects.
+
+**Contact Form**
+
+Built with custom validation and integrated with EmailJS.
+
+Sends the visitor’s message directly to my email inbox using a pre-configured template.
+
+Displays custom success/error notifications.
+
+**Responsive Behavior**
+The layout automatically adapts to any screen size using CSS Grid, Flexbox, and media queries.
+
+# 🧠 What I Learned
+
+Developing this portfolio helped me strengthen my skills in:
+
+Advanced CSS layouts and animation design.
+
+DOM manipulation and event handling with vanilla JavaScript.
+
+Third-party API integration (EmailJS).
+
+Responsive and accessible web design principles.
+
+UI/UX consistency and design aesthetics.
+
+# 📂 Project Structure
+
+/project-folder
+│
+├── index.html          # Main HTML file (entire site in one page)
+├── image.png           # Profile / about section photo
+├── logo.png            # Project image (achievement fair)
+├── VASED.png           # Power Apps project image
+├── image2222.png       # Expo-tech project image
+├── samuelGuevara_CV.pdf # Downloadable resume
+└── README.md           # Documentation (this file)
+
+# 🌍 Live Demo
+
+https://samguevara25.github.io/eliasGuevara/
+
+# 📫 Contact Me
+
+If you’d like to collaborate, share feedback, or discuss a project:
+
+📧 Email: eliasguevara2808@gmail.com
+📞 Phone: +503 7502-6666
+💼 LinkedIn: www.linkedin.com/in/elías-guevara2008
+📍 Location: San Salvador, El Salvador
