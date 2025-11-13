@@ -54,6 +54,7 @@ Stylish footer with interactive social media buttons and copyright.
 
 ⚡ Smooth animations on scroll using the Intersection Observer API.
 
+# 🧰 Technologies Used
 
 | Category               | Tools / Libraries                          |
 | ---------------------- | ------------------------------------------ |
